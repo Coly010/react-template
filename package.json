@@ -1,0 +1,15 @@
+{
+  "name": "generated-template",
+  "version": "1.0.0",
+  "description": "Automatically generated template repository",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "template",
+    "generated"
+  ],
+  "author": "Template Generator Bot",
+  "license": "MIT"
+}
